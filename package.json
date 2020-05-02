@@ -15,5 +15,9 @@
     "print-hello"
   ],
   "author": "Hedy Li",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hedy06/print-hello-to-console.git"
+  }
 }
