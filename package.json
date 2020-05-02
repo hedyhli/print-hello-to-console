@@ -9,9 +9,10 @@
   "keywords": [
     "hello",
     "print",
-    "helloWorld",
-    "print-hello",
-    "hello-world"
+    "hello world",
+    "hello-world",
+    "print hello",
+    "print-hello"
   ],
   "author": "Hedy Li",
   "license": "MIT"
