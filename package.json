@@ -1,6 +1,7 @@
 {
   "name": "print-hello-to-console",
   "version": "0.3.0",
+
   "description": "Prints 'Hello! ' to the console screen. ",
   "main": "index.js",
   "scripts": {
