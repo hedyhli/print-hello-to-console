@@ -1,3 +1,4 @@
-module.exports.default = () => {
+module.exports = () => {
     console.log("Hello! ")
 }
+
